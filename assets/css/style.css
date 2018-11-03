@@ -1,0 +1,50 @@
+#body {
+    height: 100%;
+    background-image: url('https://www.imgbase.info/images/safe-wallpapers/tv_movies/its_always_sunny_in_philadelphia/57368_its_always_sunny_in_philadelphia.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Krub', sans-serif;
+
+}
+
+.container {
+    min-height: 100%;
+}
+
+
+.answer {
+    width: 30%;
+    background-color: rgba(0,0,0,0.25);
+    margin: 5px;
+}
+
+.answerCorrect {
+    border: 2px solid green;
+}
+
+#gameTitle {
+    text-align: center;
+}
+
+#jumbo {
+background-color: rgba(0,0,0,0.75);
+
+}
+
+.card {
+    color: black;
+}
+
+#start {
+    text-align:center;
+}
+
+#choices > div {
+    margin: auto;
+    margin-top: 15px;
+}
+
+.answer {
+    margin-top: 15px;
+}
